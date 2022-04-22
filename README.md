@@ -1,7 +1,7 @@
 ## Práctica Procontacto
 Estas son las respuestas a los ejercicios de la páctica técnica para la vacante TP Developer.
 
-#Ejercicio 1
+##Ejercicio 1
 
 Ambiente Instalado.
 
@@ -9,7 +9,7 @@ Ambiente Instalado.
 
 ![Screenshot](git.jpg)
 
-###Ejercicio 2
+##Ejercicio 2
 
 * 1.¿Qué es un servidor HTTP?
 
