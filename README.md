@@ -5,9 +5,9 @@ Estas son las respuestas a los ejercicios de la páctica técnica para la vacant
 
 Ambiente Instalado.
 
-![Screenshot](VScode.jpg)
+![Screenshot](images/VScode.jpg)
 
-![Screenshot](git.jpg)
+![Screenshot](/images/git.jpg)
 
 #Ejercicio 2
 
