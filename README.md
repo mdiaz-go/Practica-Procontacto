@@ -118,7 +118,9 @@ Ambiente Instalado.
 	Hace uso de métodos también conocidos como verbos para indicar el tipo de operación que vamos a realizar sobre los recursos que nos ofrecen los servicios web.
 
 11.	¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?
+
 	Son parámetros que se envían al servidor para indicar la información básica (método HTTP, URL y versión). 
+	
 	El Content-type se utiliza para determinar el tipo MIME del recurso.
 
 ###Ejercicio 3
@@ -162,13 +164,13 @@ Diagramas
 
 ##Soluciones de Salesforce
 
-A.	¿Qué es Salesforce?
+A.¿Qué es Salesforce?
 
-	Es una solución basada en la gestión de hacer relaciones con clientes y después empresas. Es una plataforma CRM.
+Es una solución basada en la gestión de hacer relaciones con clientes y después empresas. Es una plataforma CRM.
 	
-B.	¿Qué es Sales Cloud?
+B.¿Qué es Sales Cloud?
 
-	Es una aplicación basada en la nube y tiene la intención de ayudar a los vendedores a vender de una manera más rápida e inteligente.
+Es una aplicación basada en la nube y tiene la intención de ayudar a los vendedores a vender de una manera más rápida e inteligente.
 	
 C.	¿Qué es Service Cloud?
 
