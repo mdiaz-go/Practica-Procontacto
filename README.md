@@ -11,13 +11,13 @@ Ambiente Instalado.
 
 ##Ejercicio 2
 
-1.¿Qué es un servidor HTTP?
+1.	¿Qué es un servidor HTTP?
 
-Es un software que se utiliza para proporcionar archivos a sitios de internet, es responsable de garantizar la comunicación entre servidor y cliente y también funciona como enlace entre dos máquinas. 
+	Es un software que se utiliza para proporcionar archivos a sitios de internet, es responsable de garantizar la comunicación entre servidor y cliente y también funciona como enlace entre dos máquinas. 
 
-2.¿Qué son los verbos HTTP? Mencionar los más conocidos.
+2.	¿Qué son los verbos HTTP? Mencionar los más conocidos.
 
-Son indicaciones al servidor sobre que es lo que se debe de hacer con los datos identificados con la URL.
+	Son indicaciones al servidor sobre que es lo que se debe de hacer con los datos identificados con la URL.
 Los verbos más conocidos son GET y POST.
 
 3.	¿Qué es un request y un response en una comunicación HTTP? ¿Qué son los headers?
