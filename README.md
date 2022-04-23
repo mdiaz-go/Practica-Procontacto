@@ -1,4 +1,4 @@
-## Práctica Procontacto
+# Práctica Procontacto
 Estas son las respuestas a los ejercicios de la páctica técnica para la vacante TP Developer.
 
 ##Ejercicio 1
@@ -38,6 +38,7 @@ Ambiente Instalado.
 6.	¿Cómo se envía la data en un Get y cómo en un POST? 
 
 	GET: www.ejemplo.com/registro.php?nombre=maria&;apellido=diaz&;correo=maria@correo.com
+	
 	POST:  Envía datos al servidor de manera oculta y el valor devuelto depende del header.
 	
 7.	¿Qué verbo http utiliza el navegador cuando accedemos a una página?
@@ -160,7 +161,7 @@ Diagramas
 
 ##Soluciones de Salesforce
 
-A.	¿Qué es Salesforce?
+A.¿Qué es Salesforce?
 	Es una solución basada en la gestión de hacer relaciones con clientes y después empresas. Es una plataforma CRM.
 	
 B.	¿Qué es Sales Cloud?
