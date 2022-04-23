@@ -1,7 +1,7 @@
 # Práctica Procontacto
 Estas son las respuestas a los ejercicios de la páctica técnica para la vacante TP Developer.
 
-#Ejercicio 1
+**Ejercicio 1**
 
 Ambiente Instalado.
 
@@ -13,7 +13,7 @@ Ambiente Instalado.
 ![Git](https://user-images.githubusercontent.com/61851810/164851161-2333fdc6-83bc-401c-88cb-e86f94503301.jpg)
 
 
-#Ejercicio 2
+**Ejercicio 2**
 
 1.	¿Qué es un servidor HTTP?
 
@@ -26,9 +26,11 @@ Ambiente Instalado.
 
 3.	¿Qué es un request y un response en una comunicación HTTP? ¿Qué son los headers?
 
-	Request. Es una solicitud o petición que envía el cliente.
-	Response. Es la respuesta a una petición del servidor web. 
-	Headers. Son parámetros que se envían en una petición o respuesta HTTP al cliente o al servidor y proporcionan información esencial sobre la transacción en curso. 
+	**Request.** Es una solicitud o petición que envía el cliente.
+	
+	**Response.** Es la respuesta a una petición del servidor web. 
+	
+	**Headers.** Son parámetros que se envían en una petición o respuesta HTTP al cliente o al servidor y proporcionan información esencial sobre la transacción en curso. 
 
 4.	¿Qué es un queryString? (En el contexto de una url)
 
@@ -41,9 +43,9 @@ Ambiente Instalado.
 
 6.	¿Cómo se envía la data en un Get y cómo en un POST? 
 
-	GET: www.ejemplo.com/registro.php?nombre=maria&;apellido=diaz&;correo=maria@correo.com
+	**GET:** www.ejemplo.com/registro.php?nombre=maria&;apellido=diaz&;correo=maria@correo.com
 	
-	POST:  Envía datos al servidor de manera oculta y el valor devuelto depende del header.
+	**POST:**  Envía datos al servidor de manera oculta y el valor devuelto depende del header.
 	
 7.	¿Qué verbo http utiliza el navegador cuando accedemos a una página?
 
@@ -51,9 +53,10 @@ Ambiente Instalado.
 
 8.	Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.
 
-	JSON: Es un formato de texto para almacenar y transportar datos, se trata de un subconjunto de la notación de objetos de JavaScipt
-	Ejem
-
+	**JSON:** Es un formato de texto para almacenar y transportar datos, se trata de un subconjunto de la notación de objetos de JavaScipt
+	Ejem.
+	
+	```JSON
 	    {
 	    "squadName": "Super hero squad",
 	    "homeTown": "Metro City",
@@ -95,16 +98,19 @@ Ambiente Instalado.
 		}
 	    ]
 	    }
+	```
 
-	XML: Es un lenguaje de marcación extensible, y fue diseñada para almacenar y transportar datos.
-	Ejem:
-		{
-		<message>
-			<warning>
-				Hola, mundo
-			</warning>
-		</message>
-		}
+	**XML:** Es un lenguaje de marcación extensible, y fue diseñada para almacenar y transportar datos.
+	Ejem.
+	
+	```xml
+	<message>
+		<warning>
+			Hola, mundo
+		</warning>
+	</message>
+	```
+
 
 9.	Explicar brevemente el estándar SOAP.
 
@@ -127,7 +133,7 @@ Ambiente Instalado.
 	
 	El Content-type se utiliza para determinar el tipo MIME del recurso.
 
-#Ejercicio 3
+**Ejercicio 3**
 
 1.	Realizar un request GET a la URL: https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json
 
@@ -145,11 +151,11 @@ Ambiente Instalado.
 
 En el primer punto muestra la información que tiene la URL y en el tercer punto muestra la información incluyendo mis datos.
 
-#Ejercicio 4
+**Ejercicio 4**
 
 https://trailblazer.me/id/mdazgordillo
 
-#Ejercicio 5
+**Ejercicio 5**
 
 1.	Lead. Es donde se almacena información de los clientes prospecto. No tiene relación con ninguno de los demás objetos.
 2.	Account. Es donde se almacena información de una organización, empresa o consumidor al que se le desea realizar un seguimiento (cliente, socio).  
@@ -176,11 +182,11 @@ https://trailblazer.me/id/mdazgordillo
 ![acc-case](https://user-images.githubusercontent.com/61851810/164856525-702471f1-5bdc-4180-af00-468fe9e2d92a.jpg)
 
 
-#Ejercicio 6
+**Ejercicio 6**
 
-**Soluciones de Salesforce**
+***Soluciones de Salesforce***
 
-A.¿Qué es Salesforce?
+A.	¿Qué es Salesforce?
 
 Es una solución basada en la gestión de hacer relaciones con clientes y después empresas. Es una plataforma CRM.
 	
@@ -200,7 +206,7 @@ E. ¿Qué es Marketing Cloud?
 
 Es una plataforma de marketing digital para gestionar la interacción de la marca con sus clientes.
 
-**Funcionalidades de Salesforce**
+***Funcionalidades de Salesforce***
 
 A. ¿Qué es un RecordType?
 
@@ -262,7 +268,7 @@ O. ¿Para qué sirve la funcionalidad Chatter?
 
 Es una aplicación de colaboración en tiempo real que permite a sus usuarios trabajar en conjunto y compartir información.
 
-**Conceptos generales**
+***Conceptos generales***
 
 A. ¿Qué significa SaaS?
 
