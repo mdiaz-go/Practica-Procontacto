@@ -1,7 +1,7 @@
 # Práctica Procontacto
 Estas son las respuestas a los ejercicios de la páctica técnica para la vacante TP Developer.
 
-##Ejercicio 1
+#Ejercicio 1
 
 Ambiente Instalado.
 
@@ -9,7 +9,7 @@ Ambiente Instalado.
 
 ![Screenshot](git.jpg)
 
-##Ejercicio 2
+#Ejercicio 2
 
 1.	¿Qué es un servidor HTTP?
 
@@ -123,7 +123,7 @@ Ambiente Instalado.
 	
 	El Content-type se utiliza para determinar el tipo MIME del recurso.
 
-##Ejercicio 3
+#Ejercicio 3
 
 1.	Realizar un request GET a la URL: https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json
 
@@ -141,11 +141,11 @@ IMG
 
 En el primer punto muestra la información que tiene la URL y en el tercer punto muestra la información incluyendo mis datos.
 
-##Ejercicio 4
+#Ejercicio 4
 
 https://trailblazer.me/id/mdazgordillo
 
-###Ejercicio 5
+#Ejercicio 5
 
 1.	Lead. Es donde se almacena información de los clientes prospecto. No tiene relación con ninguno de los demás objetos.
 2.	Account. Es donde se almacena información de una organización, empresa o consumidor al que se le desea realizar un seguimiento (cliente, socio).  
@@ -160,9 +160,9 @@ https://trailblazer.me/id/mdazgordillo
 
 Diagramas
 
-##Ejercicio 6
+#Ejercicio 6
 
-###Soluciones de Salesforce
+#Soluciones de Salesforce
 
 A.¿Qué es Salesforce?
 
@@ -184,7 +184,7 @@ E. ¿Qué es Marketing Cloud?
 
 Es una plataforma de marketing digital para gestionar la interacción de la marca con sus clientes.
 
-###Funcionalidades de Salesforce
+#Funcionalidades de Salesforce
 
 A. ¿Qué es un RecordType?
 
@@ -246,7 +246,7 @@ O. ¿Para qué sirve la funcionalidad Chatter?
 
 Es una aplicación de colaboración en tiempo real que permite a sus usuarios trabajar en conjunto y compartir información.
 
-###Conceptos generales
+#Conceptos generales
 
 A. ¿Qué significa SaaS?
 
@@ -308,7 +308,7 @@ N. ¿Salesforce es un ERP?
 
 No.
 
-##Ejercicio 7
+#Ejercicio 7
 
 
 A.	Consultar tu ID haciendo un GET con POSTMAN a este WS:
