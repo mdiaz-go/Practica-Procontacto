@@ -136,6 +136,7 @@ IMG
 IMG
 
 ¿Qué diferencias se observan entre las llamadas el punto 1 y 3?
+
 En el primer punto muestra la información que tiene la URL y en el tercer punto muestra la información incluyendo mis datos.
 
 ###Ejercicio 5
@@ -177,6 +178,7 @@ E.	¿Qué es Marketing Cloud?
 	Es una plataforma de marketing digital para gestionar la interacción de la marca con sus clientes.
 
 ##Funcionalidades de Salesforce
+
 A.	¿Qué es un RecordType?
 	Son los tipos de registro que permite a la plataforma hacer diferentes procesos.
 
@@ -223,7 +225,8 @@ O.	¿Para qué sirve la funcionalidad Chatter?
 	Es una aplicación de colaboración en tiempo real que permite a sus usuarios trabajar en conjunto y compartir información.
 
 ##Conceptos generales
-A.	¿Qué significa SaaS?
+
+A.¿Qué significa SaaS?
 	Es un modelo de entrega de software basado en la nube en el que el proveedor desarrolla y mantiene el software de las aplicaciones en la nube, proporciona actualizaciones automáticas del mismo y lo pone a disposición de sus clientes a través de Internet.
 
 B.	¿Salesforce es Saas?
