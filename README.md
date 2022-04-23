@@ -43,7 +43,7 @@ Ambiente Instalado.
 
 6.	¿Cómo se envía la data en un Get y cómo en un POST? 
 
-	**GET:** www.ejemplo.com/registro.php?nombre=maria&;apellido=diaz&;correo=maria@correo.com
+	**GET:** *www.ejemplo.com/registro.php?nombre=maria&;apellido=diaz&;correo=maria@correo.com*
 	
 	**POST:**  Envía datos al servidor de manera oculta y el valor devuelto depende del header.
 	
@@ -54,6 +54,7 @@ Ambiente Instalado.
 8.	Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.
 
 	**JSON:** Es un formato de texto para almacenar y transportar datos, se trata de un subconjunto de la notación de objetos de JavaScipt
+	
 	Ejem.
 	
 	```JSON
@@ -101,6 +102,7 @@ Ambiente Instalado.
 	```
 
 	**XML:** Es un lenguaje de marcación extensible, y fue diseñada para almacenar y transportar datos.
+	
 	Ejem.
 	
 	```xml
