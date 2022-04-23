@@ -311,7 +311,7 @@ No.
 ###Ejercicio 7
 
 
-A.Consultar tu ID haciendo un GET con POSTMAN a este WS:
+A.	Consultar tu ID haciendo un GET con POSTMAN a este WS:
 
 https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json
 
@@ -320,7 +320,12 @@ https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json
 		"email": "maria.diaz@procontacto.com.mx",
 		"name": "María"
 	}
+	
+B.	Agregar un campo al objeto Contact llamado idprocontacto de tipo texto de 255 caracteres. 
 
+	Imagen
+	
+C.	Desarrollar un trigger para que cuando un usuario Modifica o Crea un contacto de Salesforce completando el campo generado el punto B con TU id obtenido en el punto A, se invoque al Web Service con el idprocontacto obtenga los datos de email de la respuesta y actualice el campo email del contacto. Usar Playground 1. 
 
 
 
