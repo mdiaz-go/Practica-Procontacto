@@ -172,140 +172,140 @@ B.¿Qué es Sales Cloud?
 
 Es una aplicación basada en la nube y tiene la intención de ayudar a los vendedores a vender de una manera más rápida e inteligente.
 	
-C.	¿Qué es Service Cloud?
+C.¿Qué es Service Cloud?
 
-	Es una solución que permite a los usuarios automatizar procesos de servicio al cliente.
+Es una solución que permite a los usuarios automatizar procesos de servicio al cliente.
 	
-D.	¿Qué es Health Cloud?
+D. ¿Qué es Health Cloud?
 
-	Es una solución para gestionar las relaciones con el paciente.
+Es una solución para gestionar las relaciones con el paciente.
 	
-E.	¿Qué es Marketing Cloud?
+E. ¿Qué es Marketing Cloud?
 
-	Es una plataforma de marketing digital para gestionar la interacción de la marca con sus clientes.
+Es una plataforma de marketing digital para gestionar la interacción de la marca con sus clientes.
 
 ##Funcionalidades de Salesforce
 
-A.	¿Qué es un RecordType?
+A. ¿Qué es un RecordType?
 
-	Son los tipos de registro que permite a la plataforma hacer diferentes procesos.
+Son los tipos de registro que permite a la plataforma hacer diferentes procesos.
 
-B.	¿Qué es un ReportType?
+B. ¿Qué es un ReportType?
 
-	Es un conjunto de registros disponibles basados en las relaciones entre objeto principal y sus objetos relacionados.
+Es un conjunto de registros disponibles basados en las relaciones entre objeto principal y sus objetos relacionados.
 
-C.	¿Qué es un Page Layout?
+C. ¿Qué es un Page Layout?
 
-	Son los diseños de las páginas de detalle y edición de la organización. 
+Son los diseños de las páginas de detalle y edición de la organización. 
 
-D.	¿Qué es un Compact Layout?
+D. ¿Qué es un Compact Layout?
 
-	Es un diseño más pequeño donde muestran los campos clave de algún registro en la aplicación móvil de Salesforce.
+Es un diseño más pequeño donde muestran los campos clave de algún registro en la aplicación móvil de Salesforce.
 
-E.	¿Qué es un Perfil?
+E. ¿Qué es un Perfil?
 
-	Es la asignación que se le da al usuario donde se especifica cómo y qué puede hacer en la aplicación.
+Es la asignación que se le da al usuario donde se especifica cómo y qué puede hacer en la aplicación.
 
-F.	¿Qué es un Rol?
+F. ¿Qué es un Rol?
 
-	Es la asignación que se le da a un usuario donde se especifica qué es lo que puede ver dentro de su organización.
+Es la asignación que se le da a un usuario donde se especifica qué es lo que puede ver dentro de su organización.
 
-G.	¿Qué es un Validation Rule?
+G. ¿Qué es un Validation Rule?
 
-	Es una regla de validación donde se verifica que cuando los datos que ha introducido un usuario cumplan con las reglas previamente especificadas.
+Es una regla de validación donde se verifica que cuando los datos que ha introducido un usuario cumplan con las reglas previamente especificadas.
 
-H.	¿Qué diferencia hay entre una relación Master Detail y Lookup?
+H. ¿Qué diferencia hay entre una relación Master Detail y Lookup?
 
-	Que el master detail tiene una dependencia directa entre dos objetos (padre-hijo) y es muy limitada la relación maestro-detalle y el Lookup es cuando solo necesitas tener la relación entre dos objetos pero no una dependencia entre ellos.
+Que el master detail tiene una dependencia directa entre dos objetos (padre-hijo) y es muy limitada la relación maestro-detalle y el Lookup es cuando solo necesitas tener la relación entre dos objetos pero no una dependencia entre ellos.
 
-I.	¿Qué es un Sandbox?
+I. ¿Qué es un Sandbox?
 
-	Es una copia de la información de tu organización en producción a entornos de pruebas.
+Es una copia de la información de tu organización en producción a entornos de pruebas.
 
-J.	¿Qué es un ChangeSet?
+J. ¿Qué es un ChangeSet?
 
-	Son conjuntos de cambios que envían personalizaciones de una organización a otra.
+Son conjuntos de cambios que envían personalizaciones de una organización a otra.
 
-K.	¿Para qué sirve el import Wizard de Salesforce?
+K. ¿Para qué sirve el import Wizard de Salesforce?
 
-	Sirve para la importación de datos de una manera más sencilla.
+Sirve para la importación de datos de una manera más sencilla.
 
-L.	¿Para qué sirve la funcionalidad Web to Lead?
+L. ¿Para qué sirve la funcionalidad Web to Lead?
 
-	Para almacenar información capturada mediante un formulario web y convertirlo a un cliente potencial.
+Para almacenar información capturada mediante un formulario web y convertirlo a un cliente potencial.
 
-M.	¿Para qué sirve la funcionalidad Web to Case?
+M. ¿Para qué sirve la funcionalidad Web to Case?
 
-	Para capturar casos desde un sitio web y enviarlos directamente a su instancia de Salesforce.
+Para capturar casos desde un sitio web y enviarlos directamente a su instancia de Salesforce.
 
-N.	¿Para qué sirve la funcionalidad Omnichannel?
+N. ¿Para qué sirve la funcionalidad Omnichannel?
 
-	Para proporcionar todos los elementos necesarios para ayudar a los agentes o gestores a ofrecer un mejor servicio al cliente, proactivo en todos los canales y dispositivos.
+Para proporcionar todos los elementos necesarios para ayudar a los agentes o gestores a ofrecer un mejor servicio al cliente, proactivo en todos los canales y dispositivos.
 
-O.	¿Para qué sirve la funcionalidad Chatter?
+O. ¿Para qué sirve la funcionalidad Chatter?
 
-	Es una aplicación de colaboración en tiempo real que permite a sus usuarios trabajar en conjunto y compartir información.
+Es una aplicación de colaboración en tiempo real que permite a sus usuarios trabajar en conjunto y compartir información.
 
 ##Conceptos generales
 
-A.¿Qué significa SaaS?
+A. ¿Qué significa SaaS?
 
-	Es un modelo de entrega de software basado en la nube en el que el proveedor desarrolla y mantiene el software de las aplicaciones en la nube, proporciona actualizaciones automáticas del mismo y lo pone a disposición de sus clientes a través de Internet.
+Es un modelo de entrega de software basado en la nube en el que el proveedor desarrolla y mantiene el software de las aplicaciones en la nube, proporciona actualizaciones automáticas del mismo y lo pone a disposición de sus clientes a través de Internet.
 
-B.	¿Salesforce es Saas?
+B. ¿Salesforce es Saas?
 
-	Salesforce sí es SaaS.
+Salesforce sí es SaaS.
 
-C.	¿Qué significa que una solución sea Cloud?
+C. ¿Qué significa que una solución sea Cloud?
 
-	Que se pueden almacenar y administrar las bases de datos, procesos y operaciones en servidores remotos y después permitir el acceso a esa información de a través de internet.
+Que se pueden almacenar y administrar las bases de datos, procesos y operaciones en servidores remotos y después permitir el acceso a esa información de a través de internet.
 
-D.	¿Qué significa que una solución sea On-Premise?
+D. ¿Qué significa que una solución sea On-Premise?
 
-	Se refiere al tipo de instalación local de una instalación de software. Esta instalación se lleva a cabo dentro del servidor y la infraestructura (TIC) de la empresa.
+Se refiere al tipo de instalación local de una instalación de software. Esta instalación se lleva a cabo dentro del servidor y la infraestructura (TIC) de la empresa.
 
-E.	¿Qué es un pipeline de ventas?
+E. ¿Qué es un pipeline de ventas?
 
-	El proceso de actividades y estrategias que necesita un vendedor para acelerar el ciclo de ventas, transformando clientes potenciales en clientes.
+El proceso de actividades y estrategias que necesita un vendedor para acelerar el ciclo de ventas, transformando clientes potenciales en clientes.
 
-F.	¿Qué es un funnel de ventas?
+F. ¿Qué es un funnel de ventas?
 
-	Es un sistema diseñado para atraer a desconocidos, convertirlos en leads y transformarlos en clientes.
+Es un sistema diseñado para atraer a desconocidos, convertirlos en leads y transformarlos en clientes.
 
-G.	¿Qué significa Customer Experience?
+G. ¿Qué significa Customer Experience?
 
-	Es la forma de generar una relación entre consumidor y marca.
+Es la forma de generar una relación entre consumidor y marca.
 
-H.	¿Qué significa omnicanalidad?
+H. ¿Qué significa omnicanalidad?
 
-	Es una estrategia de comunicación orientada a la atención del cliente.
+Es una estrategia de comunicación orientada a la atención del cliente.
 
-I.	¿Qué significa que un negocio sea B2B? ¿Qué significa que un negocio sea B2C? ¿Qué es un KPI?
+I. ¿Qué significa que un negocio sea B2B? ¿Qué significa que un negocio sea B2C? ¿Qué es un KPI?
 
-	B2B. Que son las ventas de un negocio a otro.
+B2B. Que son las ventas de un negocio a otro.
 	
-	B2C. Que el negocio vende de forma directa al consumidor final.
+B2C. Que el negocio vende de forma directa al consumidor final.
 	
-	KPI. Son indicadores de desempeño y hacen referencia a una serie de métricas que se utilizan para simplificar la información y poder hacer toma de decisiones.
+KPI. Son indicadores de desempeño y hacen referencia a una serie de métricas que se utilizan para simplificar la información y poder hacer toma de decisiones.
 
-J.	¿Qué es una API y en qué se diferencia de una Rest API?
+J. ¿Qué es una API y en qué se diferencia de una Rest API?
 
-	Es que API es un conjunto de definiciones y protocolos que se usa para diseñar e integrar el software de las aplicaciones y Rest API es un estilo arquitectónico para aplicaciones en red basadas en cliente-servidor.
+Es que API es un conjunto de definiciones y protocolos que se usa para diseñar e integrar el software de las aplicaciones y Rest API es un estilo arquitectónico para aplicaciones en red basadas en cliente-servidor.
 
-K.	¿Qué es un Proceso Batch?
+K. ¿Qué es un Proceso Batch?
 
-	Es el proceso mediante el cual una computadora completa lotes de trabajos, de forma simultáneamente, en orden secuencial y sin interrupción.
+Es el proceso mediante el cual una computadora completa lotes de trabajos, de forma simultáneamente, en orden secuencial y sin interrupción.
 
-L.	¿Qué es Kanban?
+L. ¿Qué es Kanban?
 
-	Es un método de gestión de trabajo.
+Es un método de gestión de trabajo.
 
-M.	¿Qué es un ERP? 
+M. ¿Qué es un ERP? 
 
-	Es un sistema de planificación de recursos empresariales.
+Es un sistema de planificación de recursos empresariales.
 
-N.	¿Salesforce es un ERP?
+N. ¿Salesforce es un ERP?
 
-	No.
+No.
 
 ###Ejercicio 7
