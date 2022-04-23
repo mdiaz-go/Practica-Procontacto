@@ -18,7 +18,7 @@ Ambiente Instalado.
 2.	¿Qué son los verbos HTTP? Mencionar los más conocidos.
 
 	Son indicaciones al servidor sobre que es lo que se debe de hacer con los datos identificados con la URL.
-Los verbos más conocidos son GET y POST.
+	Los verbos más conocidos son GET y POST.
 
 3.	¿Qué es un request y un response en una comunicación HTTP? ¿Qué son los headers?
 
@@ -42,7 +42,7 @@ Los verbos más conocidos son GET y POST.
 	
 7.	¿Qué verbo http utiliza el navegador cuando accedemos a una página?
 
-GET
+	GET
 
 8.	Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.
 
@@ -162,12 +162,16 @@ Diagramas
 
 A.	¿Qué es Salesforce?
 	Es una solución basada en la gestión de hacer relaciones con clientes y después empresas. Es una plataforma CRM.
+	
 B.	¿Qué es Sales Cloud?
 	Es una aplicación basada en la nube y tiene la intención de ayudar a los vendedores a vender de una manera más rápida e inteligente.
+	
 C.	¿Qué es Service Cloud?
-	Es una solución que permite a los usuarios automatizar procesos de servicio al cliente.  
+	Es una solución que permite a los usuarios automatizar procesos de servicio al cliente.
+	
 D.	¿Qué es Health Cloud?
 	Es una solución para gestionar las relaciones con el paciente.
+	
 E.	¿Qué es Marketing Cloud?
 	Es una plataforma de marketing digital para gestionar la interacción de la marca con sus clientes.
 
@@ -193,7 +197,7 @@ F.	¿Qué es un Rol?
 G.	¿Qué es un Validation Rule?
 	Es una regla de validación donde se verifica que cuando los datos que ha introducido un usuario cumplan con las reglas previamente especificadas.
 
-IH	¿Qué diferencia hay entre una relación Master Detail y Lookup?
+H.	¿Qué diferencia hay entre una relación Master Detail y Lookup?
 	Que el master detail tiene una dependencia directa entre dos objetos (padre-hijo) y es muy limitada la relación maestro-detalle y el Lookup es cuando solo necesitas tener la relación entre dos objetos pero no una dependencia entre ellos.
 
 I.	¿Qué es un Sandbox?
