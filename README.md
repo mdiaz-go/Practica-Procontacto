@@ -22,23 +22,23 @@ Los verbos más conocidos son GET y POST.
 
 3.	¿Qué es un request y un response en una comunicación HTTP? ¿Qué son los headers?
 
-Request. Es una solicitud o petición que envía el cliente.
-Response. Es la respuesta a una petición del servidor web. 
-Headers. Son parámetros que se envían en una petición o respuesta HTTP al cliente o al servidor y proporcionan información esencial sobre la transacción en curso. 
+	Request. Es una solicitud o petición que envía el cliente.
+	Response. Es la respuesta a una petición del servidor web. 
+	Headers. Son parámetros que se envían en una petición o respuesta HTTP al cliente o al servidor y proporcionan información esencial sobre la transacción en curso. 
 
 4.	¿Qué es un queryString? (En el contexto de una url)
 
-Es una sección de la URL que contiene los datos que debe de pasar a las aplicaciones web.
+	Es una sección de la URL que contiene los datos que debe de pasar a las aplicaciones web.
 
 5.	¿Qué es el responseCode? ¿Qué significado tiene los posibles valores devueltos?
 
-Es un número que indica el estatus de la petición y tienen diferentes significados de acuerdo al valor devuelto. 
-Hay respuestas informativas, satisfactorias, redirecciones, errores en los clientes y errores en los servidores.
+	Es un número que indica el estatus de la petición y tienen diferentes significados de acuerdo al valor devuelto. 
+	Hay respuestas informativas, satisfactorias, redirecciones, errores en los clientes y errores en los servidores.
 
 6.	¿Cómo se envía la data en un Get y cómo en un POST? 
 
-GET: www.ejemplo.com/registro.php?nombre=maria&;apellido=diaz&;correo=maria@correo.com
-POST:  Envía datos al servidor de manera oculta y el valor devuelto depende del header.
+	GET: www.ejemplo.com/registro.php?nombre=maria&;apellido=diaz&;correo=maria@correo.com
+	POST:  Envía datos al servidor de manera oculta y el valor devuelto depende del header.
 	
 7.	¿Qué verbo http utiliza el navegador cuando accedemos a una página?
 
@@ -46,79 +46,79 @@ GET
 
 8.	Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.
 
-JSON: Es un formato de texto para almacenar y transportar datos, se trata de un subconjunto de la notación de objetos de JavaScipt
-Ejem
+	JSON: Es un formato de texto para almacenar y transportar datos, se trata de un subconjunto de la notación de objetos de JavaScipt
+	Ejem
 
-    {
-    "squadName": "Super hero squad",
-    "homeTown": "Metro City",
-    "formed": 2016,
-    "secretBase": "Super tower",
-    "active": true,
-    "members": [
-        {
-        "name": "Molecule Man",
-        "age": 29,
-        "secretIdentity": "Dan Jukes",
-        "powers": [
-            "Radiation resistance",
-            "Turning tiny",
-            "Radiation blast"
-        ]
-        },
-        {
-        "name": "Madame Uppercut",
-        "age": 39,
-        "secretIdentity": "Jane Wilson",
-        "powers": [
-            "Million tonne punch",
-            "Damage resistance",
-            "Superhuman reflexes"
-        ]
-        },
-        {
-        "name": "Eternal Flame",
-        "age": 1000000,
-        "secretIdentity": "Unknown",
-        "powers": [
-            "Immortality",
-            "Heat Immunity",
-            "Inferno",
-            "Teleportation",
-            "Interdimensional travel"
-        ]
-        }
-    ]
-    }
+	    {
+	    "squadName": "Super hero squad",
+	    "homeTown": "Metro City",
+	    "formed": 2016,
+	    "secretBase": "Super tower",
+	    "active": true,
+	    "members": [
+		{
+		"name": "Molecule Man",
+		"age": 29,
+		"secretIdentity": "Dan Jukes",
+		"powers": [
+		    "Radiation resistance",
+		    "Turning tiny",
+		    "Radiation blast"
+		]
+		},
+		{
+		"name": "Madame Uppercut",
+		"age": 39,
+		"secretIdentity": "Jane Wilson",
+		"powers": [
+		    "Million tonne punch",
+		    "Damage resistance",
+		    "Superhuman reflexes"
+		]
+		},
+		{
+		"name": "Eternal Flame",
+		"age": 1000000,
+		"secretIdentity": "Unknown",
+		"powers": [
+		    "Immortality",
+		    "Heat Immunity",
+		    "Inferno",
+		    "Teleportation",
+		    "Interdimensional travel"
+		]
+		}
+	    ]
+	    }
 
-XML: Es un lenguaje de marcación extensible, y fue diseñada para almacenar y transportar datos.
-Ejem:
-        {
-	<message>
-            	<warning>
-                	Hola, mundo
-            	</warning>
-        </message>
-	}
+	XML: Es un lenguaje de marcación extensible, y fue diseñada para almacenar y transportar datos.
+	Ejem:
+		{
+		<message>
+			<warning>
+				Hola, mundo
+			</warning>
+		</message>
+		}
 
 9.	Explicar brevemente el estándar SOAP.
 
-Es un estándar que basado en XML para la transmisión de mensajes HTTP y otros protocolos de internet.
-Se necesitan un "contrato" que se le conoce como WSDL para poder hacer la transferencia de datos de lo contrario no se puede hacer dicha transferencia.
-Tanto como cliente y servidor deben tener ese contrato para poder saber que datos se deben mandar, que tipos etc. Tanto si vas a crear un servicio o consumirlo siempre se va a necesitar definir ese contrato.
-Y el manejo de datos es exclusivamente en XML.
+	Es un estándar que basado en XML para la transmisión de mensajes HTTP y otros protocolos de internet.
+	Se necesitan un "contrato" que se le conoce como WSDL para poder hacer la transferencia de datos de lo contrario no se puede hacer dicha transferencia.
+	Tanto como cliente y servidor deben tener ese contrato para poder saber que datos se deben mandar, que tipos etc. Tanto si vas a crear un servicio o consumirlo siempre se va a necesitar definir ese contrato.
+	Y el manejo de datos es exclusivamente en XML.
 
 10.	Explicar brevemente el estándar REST Full.
 
-Como característica principal es que están pensados para ser ligeros y más rápidos de los servicios SOAP.
-Estos no necesitan un contrato para ser consumidos, pero si obedecen reglas.
-Por ejemplo, que tipo de datos se deben usar, estos pueden usar HTML, XML, texto sin formato y JSON.
-El lenguaje más popular para su uso es Json.
-Hace uso de métodos también conocidos como verbos para indicar el tipo de operación que vamos a realizar sobre los recursos que nos ofrecen los servicios web.
+	Como característica principal es que están pensados para ser ligeros y más rápidos de los servicios SOAP.
+	Estos no necesitan un contrato para ser consumidos, pero si obedecen reglas.
+	Por ejemplo, que tipo de datos se deben usar, estos pueden usar HTML, XML, texto sin formato y JSON.
+	El lenguaje más popular para su uso es Json.
+	Hace uso de métodos también conocidos como verbos para indicar el tipo de operación que vamos a realizar sobre los recursos que nos ofrecen los servicios web.
 
 11.	¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?
-Son parámetros que se envían al servidor para indicar la información básica (método HTTP, URL y versión). 
-El Content-type se utiliza para determinar el tipo MIME del recurso.
+	Son parámetros que se envían al servidor para indicar la información básica (método HTTP, URL y versión). 
+	El Content-type se utiliza para determinar el tipo MIME del recurso.
 
 ###Ejercicio 3
 
