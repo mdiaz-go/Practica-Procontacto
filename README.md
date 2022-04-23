@@ -5,9 +5,13 @@ Estas son las respuestas a los ejercicios de la páctica técnica para la vacant
 
 Ambiente Instalado.
 
-![VSCode](mdiaz-go.github.com/Practica-Procontacto/images/VScode.jpg)
 
-![Git](mdiaz-go.github.com/Practica-Procontacto/images/git.jpg)
+![VScode](https://user-images.githubusercontent.com/61851810/164850775-94da7ee5-7c04-49d4-a3af-6d785b413113.jpg)
+
+
+
+![Git](https://user-images.githubusercontent.com/61851810/164851161-2333fdc6-83bc-401c-88cb-e86f94503301.jpg)
+
 
 #Ejercicio 2
 
@@ -127,15 +131,15 @@ Ambiente Instalado.
 
 1.	Realizar un request GET a la URL: https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json
 
-IMG 
+ ![get-url](https://user-images.githubusercontent.com/61851810/164852247-2739195e-1fbe-4bd8-9193-0fb12778495f.png)
 
 2.	Realizar un request POST a la URL anterior, y con body.
 
-IMG
+![post-url](https://user-images.githubusercontent.com/61851810/164852465-0e37d57c-4b47-4f50-9296-d88f461aaf57.png)
 
 3.	Realizar nuevamente un request GET a la URL: https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json
 
-IMG
+![get2-url](https://user-images.githubusercontent.com/61851810/164852850-d10d762d-461a-4f4b-8e4a-ced38ba70ee5.png)
 
 ¿Qué diferencias se observan entre las llamadas el punto 1 y 3?
 
@@ -158,7 +162,19 @@ https://trailblazer.me/id/mdazgordillo
 9.	Case. Es donde se almacena la descripción detallada de los problemas de un cliente. Se utiliza para identificar y resolver los problemas.
 10.	Article. Son documentos informativos.
 
-Diagramas
+
+![Diagrama](https://user-images.githubusercontent.com/61851810/164855202-91b183ed-48a3-4d1d-871f-c6bf6be48914.jpg)
+
+
+![acc-contact](https://user-images.githubusercontent.com/61851810/164856472-198e5371-54e3-4af3-b01a-a901d8d51091.jpg)
+![acc-opp](https://user-images.githubusercontent.com/61851810/164856485-480faca7-0fb7-4c99-8d1e-a2cbff9e8a1b.jpg)
+![asset-case](https://user-images.githubusercontent.com/61851810/164856494-f17b88ba-be7e-437e-a802-44c8df905c15.jpg)
+![contact-asset](https://user-images.githubusercontent.com/61851810/164856502-bf5842d3-437d-4c6d-b1f9-8dcbb61cdeb1.jpg)
+![contact-case](https://user-images.githubusercontent.com/61851810/164856508-849e5a3b-0ddc-47d9-8d3e-8f920b966575.jpg)
+![prod-asset](https://user-images.githubusercontent.com/61851810/164856514-dfaabdb9-355c-4ac1-baac-80ac1ac3ee7c.jpg)
+![acc-asset](https://user-images.githubusercontent.com/61851810/164856519-e91b9933-203b-4ba0-978f-7a1fc9c2b09a.jpg)
+![acc-case](https://user-images.githubusercontent.com/61851810/164856525-702471f1-5bdc-4180-af00-468fe9e2d92a.jpg)
+
 
 #Ejercicio 6
 
@@ -323,8 +339,9 @@ https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json
 	
 B.	Agregar un campo al objeto Contact llamado idprocontacto de tipo texto de 255 caracteres. 
 
-Imagen
-	
+
+![addcont-sf](https://user-images.githubusercontent.com/61851810/164856859-f7fdbde0-e058-491e-bef9-e00831b9cb9c.jpg)
+
 C.	Desarrollar un trigger para que cuando un usuario Modifica o Crea un contacto de Salesforce completando el campo generado el punto B con TU id obtenido en el punto A, se invoque al Web Service con el idprocontacto obtenga los datos de email de la respuesta y actualice el campo email del contacto. Usar Playground 1. 
 
 
