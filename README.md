@@ -141,6 +141,10 @@ IMG
 
 En el primer punto muestra la información que tiene la URL y en el tercer punto muestra la información incluyendo mis datos.
 
+#Ejercicio 4
+
+https://trailblazer.me/id/mdazgordillo
+
 ###Ejercicio 5
 
 1.	Lead. Es donde se almacena información de los clientes prospecto. No tiene relación con ninguno de los demás objetos.
@@ -155,10 +159,6 @@ En el primer punto muestra la información que tiene la URL y en el tercer punto
 10.	Article. Son documentos informativos.
 
 Diagramas
-
-###Ejercicio 4
-
-###Ejercicio 5
 
 ###Ejercicio 6
 
@@ -214,7 +214,7 @@ G. ¿Qué es un Validation Rule?
 
 Es una regla de validación donde se verifica que cuando los datos que ha introducido un usuario cumplan con las reglas previamente especificadas.
 
-H. ¿Qué diferencia hay entre una relación Master Detail y Lookup?
+H. ¿Qué diferencia hay entre una relación **Master Detail** y **Lookup**?
 
 Que el master detail tiene una dependencia directa entre dos objetos (padre-hijo) y es muy limitada la relación maestro-detalle y el Lookup es cuando solo necesitas tener la relación entre dos objetos pero no una dependencia entre ellos.
 
@@ -309,3 +309,19 @@ N. ¿Salesforce es un ERP?
 No.
 
 ###Ejercicio 7
+
+
+A.Consultar tu ID haciendo un GET con POSTMAN a este WS:
+
+https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json
+
+	},
+		"-N07HT6ufgJAJQUbsG0y": {
+		"email": "maria.diaz@procontacto.com.mx",
+		"name": "María"
+	}
+
+
+
+
+
