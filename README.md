@@ -123,7 +123,7 @@ Ambiente Instalado.
 	
 	El Content-type se utiliza para determinar el tipo MIME del recurso.
 
-###Ejercicio 3
+##Ejercicio 3
 
 1.	Realizar un request GET a la URL: https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json
 
@@ -141,7 +141,7 @@ IMG
 
 En el primer punto muestra la información que tiene la URL y en el tercer punto muestra la información incluyendo mis datos.
 
-#Ejercicio 4
+##Ejercicio 4
 
 https://trailblazer.me/id/mdazgordillo
 
@@ -160,9 +160,9 @@ https://trailblazer.me/id/mdazgordillo
 
 Diagramas
 
-###Ejercicio 6
+##Ejercicio 6
 
-##Soluciones de Salesforce
+###Soluciones de Salesforce
 
 A.¿Qué es Salesforce?
 
@@ -184,7 +184,7 @@ E. ¿Qué es Marketing Cloud?
 
 Es una plataforma de marketing digital para gestionar la interacción de la marca con sus clientes.
 
-##Funcionalidades de Salesforce
+###Funcionalidades de Salesforce
 
 A. ¿Qué es un RecordType?
 
@@ -246,7 +246,7 @@ O. ¿Para qué sirve la funcionalidad Chatter?
 
 Es una aplicación de colaboración en tiempo real que permite a sus usuarios trabajar en conjunto y compartir información.
 
-##Conceptos generales
+###Conceptos generales
 
 A. ¿Qué significa SaaS?
 
@@ -308,7 +308,7 @@ N. ¿Salesforce es un ERP?
 
 No.
 
-###Ejercicio 7
+##Ejercicio 7
 
 
 A.	Consultar tu ID haciendo un GET con POSTMAN a este WS:
@@ -323,7 +323,7 @@ https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json
 	
 B.	Agregar un campo al objeto Contact llamado idprocontacto de tipo texto de 255 caracteres. 
 
-	Imagen
+Imagen
 	
 C.	Desarrollar un trigger para que cuando un usuario Modifica o Crea un contacto de Salesforce completando el campo generado el punto B con TU id obtenido en el punto A, se invoque al Web Service con el idprocontacto obtenga los datos de email de la respuesta y actualice el campo email del contacto. Usar Playground 1. 
 
